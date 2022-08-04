@@ -4,7 +4,37 @@
 
 - 📫 How to reach me arbaz24.3.20@gmail.com
 
-<!---
-Arbaz49/Arbaz49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-I've good understanding in ReactJS Frontend development.
+-Here are some tools and technologies that i know:
+HTML,CSS.
+javascript,
+
+-FRAMWORKS AND LIBRARY THAT I KNOW:
+ React.js,
+ 
+ Bootstrap,
+ tailwind css,
+ 
+
+-CONTENT MANAGEMENT SYSTEM(CMS)
+ -Wordpress: 
+ projects=>
+  1. personal portfolio website(Astra theme,elementor),
+  2. tourist website(Astra theme,elementor),
+  
+-programming skills:
+ -c,
+ -c++,
+ -java,
+ -javascript,
+ -dbms,
+ -Data Structure and algorithms
+ 
+ -Some projects Of mine:
+  -NewsyFy -API based project,
+  -dragon game,
+  -personal portfolio website,
+  -Weather app -API based project
+  
+
+  
