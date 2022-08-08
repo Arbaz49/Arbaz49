@@ -18,23 +18,13 @@ javascript,
 
 -CONTENT MANAGEMENT SYSTEM(CMS)
  -Wordpress: 
- projects=>
-  1. personal portfolio website(Astra theme,elementor),
-  2. tourist website(Astra theme,elementor),
   
 -programming skills:
  -c,
  -c++,
  -java,
  -javascript,
- -dbms,
  -Data Structure and algorithms
- 
- -Some projects Of mine:
-  -NewsyFy -API based project,
-  -dragon game,
-  -personal portfolio website,
-  -Weather app -API based project
   
 
   
