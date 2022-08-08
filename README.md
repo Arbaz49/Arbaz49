@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arbaz49
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Full stack web development
+- 🌱 Always ready to learn new things and technology
 
 - 📫 How to reach me arbaz24.3.20@gmail.com
 
