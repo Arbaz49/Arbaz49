@@ -1,10 +1,10 @@
  ### Hi there, I'm Arbaz Solkar 👋  
 
 <a href="https://portfolio-orcin-six-55.vercel.app/">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ArjunSinghBhakunirohi.vercel.app" />
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://portfolio-orcin-six-55.vercel.app/" />
 </a>
 <a title="arbaz24.3.20@gmail.com" href="mailto:arbaz24.3.20@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="arbaz24.320@gmail.com" />
 </a>
 <a href="https://www.linkedin.com/in/arbaz-solkar-819b961b5/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/arbaz-solkar-819b961b5/" />
@@ -30,9 +30,7 @@
     <a href="https://github.com/Arbaz49">
         <img src="https://komarev.com/ghpvc/?username=Arbaz49&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
     </a>
-<!--     <a href="https://github.com/ArjunSinghBhakuni?tab=followers">
-        <img src="https://img.shields.io/github/followers/ArjunSinghBhakunit?label=Followers&style=social" alt="followers-count">
-    </a> -->
+
 </p>
  
 
@@ -70,7 +68,7 @@
 
 
 
-  <a href="https://github.com/ArjunSinghBhakuni?tab=repositories">
+  <a href="https://github.com/Arbaz49?tab=repositories">
     <img width="400" height="auto"  alt="Arbaz's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Arbaz49&show_icons=true&theme=algolia&count_private=true" />
   </a>
