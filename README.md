@@ -66,7 +66,10 @@
 <p display="flex" align="center">
 <img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSinghBhakuni&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
+## 🏆 Trophies:
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
+<img width="70%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Arbaz49" alt="Arbaz49" />
 
   <a href="https://github.com/Arbaz49?tab=repositories">
     <img width="400" height="auto"  alt="Arbaz's github stats" 
