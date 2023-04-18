@@ -61,13 +61,13 @@
 
 
 ---
-
+<!-- 
 ## 🏆 Trophies:
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Arbaz49" alt="Arbaz49" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"></a> -->
+<!-- <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Arbaz49" alt="Arbaz49" />
 <p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz49&hide=smalltalk&theme=algolia&layout=compact" width="400" />
+<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz49&hide=smalltalk&theme=algolia&layout=compact" width="400" /> -->
 
 
 
