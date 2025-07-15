@@ -13,7 +13,7 @@
 ---
 
 ## I'm a Software Engineer and Life Long Learner!
-- 🌱 I’m currently Learning Golang.
+- 🌱 I’m currently Learning GraphQl.
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra Ui, Npm.
